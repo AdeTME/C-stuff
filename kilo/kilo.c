@@ -1,4 +1,4 @@
-ls
+git 
 #include <stdio.h>
 #include <unistd.h>
 
